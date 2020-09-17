@@ -2,12 +2,14 @@ PyConlineAU 2020 Talk
 
 # Graph Databases will Change Your Life
 
-Full talk on Youtube:
+[Full talk on Youtube](https://www.youtube.com/watch?v=h8cyPIEfxQY&ab_channel=PyConAU):
 
 ![Link to video: PyConlineAU 2020: Graph Databases will Change Your Life](pyconline2020_graph-databases.png)
 
 [Link to video: PyConlineAU 2020: Graph Databases will Change Your Life](https://www.youtube.com/watch?v=h8cyPIEfxQY&ab_channel=PyConAU)
 
+
+#### Canberra Python User Group is Super Rad!
 
 Come join the [Canberra Python User Group (CPUG)](https://www.meetup.com/Canberra-Python-Meetup-Group/)
 
