@@ -32,7 +32,7 @@ RETURN guido, python
 
 Full set of examples here: [example.cypher](example.cypher)
 
-Recomend:
+Recommend:
 
 
 

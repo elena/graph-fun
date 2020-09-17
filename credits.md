@@ -1,8 +1,9 @@
 Full Credits:
 
 
-[![Link to video: Graph Databases will Change Your Life](funkatron.png)]
-(https://www.youtube.com/watch?v=GekQqFZm7mA)
+![Link to video: Graph Databases will Change Your Life](funkatron.png)
+
+[https://www.youtube.com/watch?v=GekQqFZm7mA](https://www.youtube.com/watch?v=GekQqFZm7mA)
 
 (@funkatron)[http://twitter.com/funkatron](
 Creative Commons Attribution-ShareAlike 4.0 International license)[https://creativecommons.org/licenses/by-sa/4.0/]
