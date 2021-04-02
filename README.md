@@ -16,6 +16,11 @@ Come join the [Canberra Python User Group (CPUG)](https://www.meetup.com/Canberr
 We also have a slack: [Canberra PUG slack](https://join.slack.com/t/canberrapug/shared_invite/zt-50v7p9g3-PnlGqMFr2LumH_dNizyWfg)
 
 
+## CPUG Apr 2021 Slides used:
+
+* [Slides Apr 2021](https://docs.google.com/presentation/d/e/2PACX-1vTVJ7WZng7ETgnpWGg4gUSP1WNSH0rNveQHkI3mdPzL_D8ccHLSep8qosj-yC7Vmnqz6oraIiTev3_-/pub?start=false&loop=false&delayms=3000)
+* PDF: [GraphDB-talk_Elena-Williams_public+extra.pdf](GraphDB-talk_Elena-Williams_public+extra.pdf)
+
 ## PyConlineAU 2020 Demo Code used:
 
 ### Jupyter Notebook:
